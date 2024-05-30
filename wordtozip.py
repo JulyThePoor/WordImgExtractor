@@ -31,7 +31,7 @@ def extract_images_from_word(file_path, output_folder):
 
     print("Images extracted and saved in a zip file.")
 
-# Usage example
+
 word_file_path = r"C:\Users\Administrator\Desktop\vs\Doc1.docx"
 output_folder_path = r"C:\Users\Administrator\Desktop\vs\img"
 extract_images_from_word(word_file_path, output_folder_path)
